@@ -8,4 +8,10 @@ cara menjalankan apps
 
 3. lalu jalankan program tersebut di ide anda 
 
+Screenshot hasil nomor 1
+![Nomor 1](Screenshot 2023-05-25 080617.png)
+
+
+
+
 
